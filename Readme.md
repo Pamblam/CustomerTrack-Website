@@ -14,5 +14,7 @@ Demo site is live, [here](https://pamblam.github.io/CustomerTrack-Website/).
  - Completed top section
  - Color adjustment
 
-### Friday 2/18/22 - 3pm - 5pm
+### Friday 2/18/22 - 3pm - 5pm, 9p - 10p
  - Finished everything up except the contact page and the footer.
+ - Finished up footer. 
+ - Initial design completed.
